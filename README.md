@@ -1,2 +1,10 @@
-# Music-Lyrics-printer
-A python program that prints song lyrics line-by-line with timed delays for a smooth animated output.
+#### 🎵 Music Lyrics Printer
+A simple Python program that prints song lyrics based on user input.
+
+**Tech:** Python  
+**Features:**
+- Takes user input for song selection
+- Displays formatted lyrics in the terminal
+
+**What I learned:** User input handling, string manipulation,
+basic program flow  
